@@ -1,0 +1,28 @@
+header {
+    background-color: #E6E6E6;
+    text-align: center;
+}
+h1 {
+    background-color: #b1aeae;
+    color: #005677;
+    
+}
+h2 {
+    background-color: #b1aeae;
+    color: #005677;
+}
+span {
+    font-weight: bold;
+    font-style: italic;
+
+}
+dt{
+    font-weight: bold;
+
+}
+footer{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    
+}
